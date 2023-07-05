@@ -1,0 +1,37 @@
+[
+    {
+        "Lugar": "Lençois Maranheses",
+        "Estado": "Maranhão",
+        "Como chegar": "Avião",
+        "Melhor época pra visitar": "Abril até Setembro",
+        "Distância": "1.460km"
+    },
+    {
+        "Lugar": "Bonito",
+        "Estado": "Mato Grosso do Sul",
+        "Como chegar": "Avião",
+        "Melhor época pra visitar": "Abril até Novembro",
+        "Distância": "3.468km"
+    },
+    {
+        "Lugar": "Ouro Preto",
+        "Estado": "Minas Gerais",
+        "Como chegar": "Avião",
+        "Melhor época pra visitar": "Junho até Agosto",
+        "Distância": "2.051km"
+    },
+    {
+        "Lugar": "Cachoeira da Fumacinha",
+        "Estado": "Bahia",
+        "Como chegar": "Carro",
+        "Melhor época pra visitar": "Maio até Setembro",
+        "Distância": "1.092km"
+    },
+    {
+        "Lugar": "Manaus",
+        "Estado": "Amazonas",
+        "Como chegar": "Avião",
+        "Melhor época pra visitar": "Outubro até Novembro",
+        "Distância": "4.678 km"
+    }
+]
